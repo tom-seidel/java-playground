@@ -1,0 +1,15 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Java build output
+out/
+target/
+build/
+
+# Misc
+*.log
+*.class
+
+# Optional
+.DS_Store
