@@ -10,7 +10,7 @@ The focus is on understanding core concepts like OOP, data structures, algorithm
 Each folder in this repository is a self-contained project or demo, with its own purpose and learning goal.  
 Here’s what you’ll typically find inside each project:
 
-- `Main.java` – Entry point of the project
+- Entry point like `Main.java` or similar
 - Additional classes and utilities
 - Simple and clean console output
 - Clear folder naming based on the topic
@@ -22,7 +22,7 @@ It’s meant to be a reference for myself – and maybe a helpful starting point
 
 No frameworks, no libraries – just pure Java. 🚀
 
-## ✅ Topics covered (so far)
+## ✅ Topics I have in mind (so far)
 
 - Variables, types, and operators
 - Control flow (if, switch, loops)
@@ -30,15 +30,10 @@ No frameworks, no libraries – just pure Java. 🚀
 - Object-oriented programming (OOP)
 - Arrays and collections
 - Basic algorithms and logic
-- Console-based programs
+- Console-based programs (of course)
 
 ## 🚧 Work in Progress
 
 This repo will continue to grow as I experiment with new ideas and learn more advanced topics.
 
 Feel free to explore, fork, or suggest improvements!
-
----
-
-**Made with ❤️ by [Tom Seidel](https://github.com/tom-seidel)**  
-“Stay curious. Stay consistent.”
