@@ -1,0 +1,1 @@
+This program is a simple ranking system based on points.
