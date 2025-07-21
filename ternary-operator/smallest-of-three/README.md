@@ -1,0 +1,1 @@
+This program compares three numbers. The output is the smallest number.
