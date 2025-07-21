@@ -1,0 +1,1 @@
+This program converts decimal to binary as a String.
