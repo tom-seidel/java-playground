@@ -6,14 +6,14 @@ public class Convert {
     public static String intToBinaryString(int num) {
         if (num == 0) return "0";
 
-        String binaryString = "";
+        StringBuilder sb = new StringBuilder();
         while (num > 0) {
             int remainder = num % 2;
-            binaryString = remainder + binaryString;
+            sb.insert(0, remainder);
             num /= 2;
         }
 
-        return binaryString;
+        return sb.toString();
     }
 
     public static void main(String[] args) {
